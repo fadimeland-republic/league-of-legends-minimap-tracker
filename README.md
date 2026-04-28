@@ -30,7 +30,7 @@ Install dependencies:
 ```bash
 InstallRequirements.bat
 ```
-
+---
 ##Usage
 1.Install dependencies with InstallRequirements.bat
 2.Run ZoneDrawer.py and configure top and bot river zones on your minimap

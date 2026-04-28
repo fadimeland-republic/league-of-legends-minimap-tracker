@@ -31,7 +31,7 @@ Install dependencies:
 InstallRequirements.bat
 ```
 ---
-##Usage
+## Usage
 1.Install dependencies with InstallRequirements.bat
 2.Run ZoneDrawer.py and configure top and bot river zones on your minimap
 3.Click Save(zones.json) to save zone json file

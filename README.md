@@ -21,9 +21,17 @@ Computer vision model with yolo
 
 ## Requirements
 
-- Ultralytics
+- Ultralytics 8.3+
 
 - Python 3.8+
+
+- Mss 9.0+
+
+- Pillow 10+
+
+- Opencv-python 4.9+
+
+- Numpy 1.26+
 
 Install dependencies:
 

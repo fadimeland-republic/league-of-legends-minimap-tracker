@@ -31,6 +31,14 @@ Install dependencies:
 InstallRequirements.bat
 ```
 
+##Usage
+1.Install dependencies with InstallRequirements.bat
+2.Run ZoneDrawer.py and configure top and bot river zones on your minimap
+3.Click Save(zones.json) to save zone json file
+4.Run BirdEye.py select best.pt with browse button
+5.Configure minimap area if needed
+6.Click Zone load to load zones.json
+7.Click Start button
 ---
 
 ## A Generated Image

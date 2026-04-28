@@ -1,22 +1,14 @@
 # League Minimap champion tracker
 
-Computer vision model with yolo
+Computer vision model made with yolov11
 
 ---
 
 ## Features
 
-- Can track champions on minimap
-  - 
-  - 
-  - 
-  - 
-- 
-- 
-- 
-- 
-- 
-
+  - Can track champions on minimap and send alarms
+  - Modifiable detection alarm zones
+   
 ---
 
 ## Requirements

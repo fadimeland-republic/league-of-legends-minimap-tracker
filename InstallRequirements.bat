@@ -2,7 +2,7 @@
 
 
 echo.
-echo ⚙️  Installing packages from requirements.txt...
+echo Installing packages from requirements.txt...
 echo.
 cd /d "%~dp0"
 if not exist "requirements.txt" (
@@ -17,5 +17,5 @@ if errorlevel 1 (
     exit /b
 )
 echo.
-echo ✅ All packages installed successfully!
+echo All packages installed successfully!
 pause

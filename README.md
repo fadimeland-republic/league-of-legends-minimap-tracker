@@ -68,12 +68,8 @@ Click Start to begin tracking.
 This tool is intended for educational and analytical purposes. Using third-party tools that interact with or monitor game state may violate the Terms of Service of the game developer. Use at your own risk.
 ---
 
-## A Generated Image
+## Example
 
-![img_00001](https://github.com/user-attachments/assets/17340b96-2a5f-4d7e-b95a-7f184e17749d)
+![img_00001]([https://github.com/user-attachments/assets/17340b96-2a5f-4d7e-b95a-7f184e17749d](https://github.com/fadimeland-republic/league-of-legends-minimap-tracker/blob/6e6e1a9e85017a41cc2497035390a495a0f30301/Example2.png))
 
-## Debug View of the Image Showing Labels
-
-![debug_img_00001](https://github.com/user-attachments/assets/25212c5e-5adc-48cb-ac19-389310c69245)
-
-
+![img_00001]([[https://github.com/user-attachments/assets/17340b96-2a5f-4d7e-b95a-7f184e17749d](https://github.com/fadimeland-republic/league-of-legends-minimap-tracker/blob/6e6e1a9e85017a41cc2497035390a495a0f30301/Example2.png](https://github.com/fadimeland-republic/league-of-legends-minimap-tracker/blob/6e6e1a9e85017a41cc2497035390a495a0f30301/Example1.png)))

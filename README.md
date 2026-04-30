@@ -70,6 +70,6 @@ This tool is intended for educational and analytical purposes. Using third-party
 
 ## Example
 
-![img alt]([https://github.com/user-attachments/assets/17340b96-2a5f-4d7e-b95a-7f184e17749d](https://github.com/fadimeland-republic/league-of-legends-minimap-tracker/blob/6e6e1a9e85017a41cc2497035390a495a0f30301/Example2.png))
+![img example](https://github.com/fadimeland-republic/league-of-legends-minimap-tracker/blob/f7622510cd69c2d0bbff27b8698caf25526f2bab/Example2.png)
 
-![img_00001]([[https://github.com/user-attachments/assets/17340b96-2a5f-4d7e-b95a-7f184e17749d](https://github.com/fadimeland-republic/league-of-legends-minimap-tracker/blob/6e6e1a9e85017a41cc2497035390a495a0f30301/Example2.png](https://github.com/fadimeland-republic/league-of-legends-minimap-tracker/blob/6e6e1a9e85017a41cc2497035390a495a0f30301/Example1.png)))
+![img example2](https://github.com/fadimeland-republic/league-of-legends-minimap-tracker/blob/6e6e1a9e85017a41cc2497035390a495a0f30301/Example1.png)

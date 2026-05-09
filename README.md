@@ -38,11 +38,10 @@ InstallRequirements.bat
 ```
 ---
 ## Usage
-🚀 Getting Started
-1
-Clone the repository and install the necessary dependencies using the provided batch file
+🚀 Getting Started.
+1-Clone the repository and install the necessary dependencies using the provided batch file.
 
-2 Configure Your Danger Zones.
+2-Configure Your Danger Zones.
 Before running the tracker, you need to tell the script which areas of the map to monitor (e.g., Top/Bot river).
 
 Run ZoneDrawer.py.
@@ -51,7 +50,7 @@ Draw your desired detection zones over your minimap.
 
 Click Save (zones.json) to export your configuration.
 
-3. Run the Tracker.
+3-Run the Tracker.
 Once your zones are set, launch the main application:
 
 Run BirdEye.py.

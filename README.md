@@ -39,10 +39,10 @@ InstallRequirements.bat
 ---
 ## Usage
 🚀 Getting Started
-1. Installation
+1.
 Clone the repository and install the necessary dependencies using the provided batch file
 
-2. Configure Your Danger Zones
+2. Configure Your Danger Zones.
 Before running the tracker, you need to tell the script which areas of the map to monitor (e.g., Top/Bot river).
 
 Run ZoneDrawer.py.
@@ -51,7 +51,7 @@ Draw your desired detection zones over your minimap.
 
 Click Save (zones.json) to export your configuration.
 
-3. Run the Tracker
+3. Run the Tracker.
 Once your zones are set, launch the main application:
 
 Run BirdEye.py.
@@ -65,7 +65,7 @@ Adjust the minimap capture area in the UI if necessary.
 Click Start to begin tracking.
 
 ⚠️ Disclaimer
-This tool is intended for educational and analytical purposes. Using third-party tools that interact with or monitor game state may violate the Terms of Service of the game developer. Use at your own risk.
+This tool is intended for educational and analytical purposes. Using third-party tools that interact with or monitor game state may violate the Terms of Service of the game. Use at your own risk.
 ---
 
 ## Example

@@ -39,6 +39,7 @@ InstallRequirements.bat
 ---
 ## Usage
 🚀 Getting Started.
+
 1-Clone the repository and install the necessary dependencies using the provided batch file.
 
 2-Configure Your Danger Zones.

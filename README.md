@@ -1,6 +1,6 @@
 # League Minimap champion tracker
 
-League Minimap Champion Tracker (YOLOv11)
+League Minimap Champion Tracker with YOLOv11
 
 ---
 
